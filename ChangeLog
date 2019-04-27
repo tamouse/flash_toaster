@@ -1,4 +1,12 @@
 2019-04-27  Tamara Temple  <tamouse@gmail.com>
 
+        * src/FlashToastr/style.js: Flash message style components
+
+        * src/FlashToastr/story.js: Create the story and associated bits to make the story playable
+
+        * src/FlashToastr/index.js: The complete flash implementation finished, using useContext and building a custom useFlash hook
+
+        * src/FlashToastr/JunkFiller.js: created
+
         * README.md:
         - converted from .txt file

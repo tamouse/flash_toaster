@@ -7,15 +7,21 @@
   "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
   "license": "MIT",
   "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
     "@babel/core": "^7.4.4",
     "@storybook/react": "^5.0.10",
     "babel-loader": "^8.0.5",
     "eslint": "^5.16.0",
     "jest": "^24.7.1",
-    "prettier": "^1.17.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "webpack": "^4.30.0",
-    "webpack-dev-server": "^3.3.1"
+    "prettier": "^1.17.0"
+  },
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "peerDependencies": {
+    "styled-components": "^4.2.0"
   }
 }

@@ -1,0 +1,9 @@
+{
+  "name": "flash_toaster",
+  "version": "0.1.0",
+  "description": "A React Component to implement a Flash / Toastr message using React Hooks",
+  "main": "src/index.js",
+  "repository": "git@github.com:tamouse/flash_toaster.git",
+  "author": "Tamara Temple <tamouse@gmail.com> (https://github.com/tamouse)",
+  "license": "MIT"
+}
